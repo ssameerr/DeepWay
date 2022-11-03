@@ -8,3 +8,4 @@ opencv-python
 pyttsx3
 datetime
 pygame
+wheel>=0.38.0 # not directly required, pinned by Snyk to avoid a vulnerability
