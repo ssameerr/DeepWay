@@ -8,3 +8,4 @@ opencv-python
 pyttsx3
 datetime
 pygame
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
